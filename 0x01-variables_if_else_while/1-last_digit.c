@@ -10,7 +10,7 @@
  */
 
 /**
- *int main - takes no argument 
+ *int main-takes no argument
  */
 int main(void)
 {
