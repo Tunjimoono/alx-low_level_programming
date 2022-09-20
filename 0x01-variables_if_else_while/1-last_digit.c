@@ -3,12 +3,15 @@
 #include <time.h>
 
 /**
- *
  * main - Entry point
+ *
  * Return: Always 0 (Success)
  *
  */
 
+/**
+ * the string last digit of
+ */
 int main(void)
 {
 		int n;
