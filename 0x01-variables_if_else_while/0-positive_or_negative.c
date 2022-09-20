@@ -3,7 +3,11 @@
 #include <time.h>
 /**
  * main - Entry point
- * Return: Always 0 (sucess) 
+ * Return: Always 0 (Success)
+ */
+
+/**
+ * int main(void) -gives no argument
  */
 int main(void)
 {
@@ -20,7 +24,7 @@ int main(void)
         {
                  printf("%d is zero\n", n);
 	}
-        else (n < 0);
+        else
         {
                 printf("%d is negative\n", n);
 	}
