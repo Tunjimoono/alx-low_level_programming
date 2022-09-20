@@ -10,7 +10,7 @@
  */
 
 /**
- * the string last digit of
+ *int main - takes no argument 
  */
 int main(void)
 {
